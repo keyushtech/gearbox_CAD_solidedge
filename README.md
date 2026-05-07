@@ -1,4 +1,4 @@
-# Barbeque_Grill_solidedge
+# Simple_Barbeque_Grill_solidedge
 This project, titled "Simple Barbecue Grill," is a collaborative engineering design developed using Solid Edge. It features a comprehensive CAD model of a portable grill assembly, complete with individual part files and structural details. The repository includes the top-level assembly file (`Assembly.asm`) which integrates the main cooking surface (`Grill.par`), the structural foundation (`Base.par`), and various support members like L-brackets and vertical legs (`L-Shape at base.par`, `V.par`, and `LV.par`). Developed using Solid Edge version 226.0, the project utilizes synchronous modeling and features calculated physical properties to assist in structural analysis and fabrication planning.
 
 ### File Descriptions
